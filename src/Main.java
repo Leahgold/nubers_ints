@@ -6,7 +6,7 @@ public class Main {
         int a4 = 8;
         int result1 = a1 + a2;
         int result2 = a1 + a2 - a3;
-        int result3 = a1 * a2;
+        int result3 = a1 * a2 - a4;
         int result4 = result3 / a1;
 
         System.out.println("result1=" + result1);
